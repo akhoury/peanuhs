@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yo dawgs, enjoy" />
+
+    <Button
+        android:id="@+id/ookayButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ookay" />
+
+    <Button
+        android:id="@+id/awhededButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="aw he dead" />
+
+    <Button
+        android:id="@+id/romantisimismButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Romance" />
+
+    <Button
+        android:id="@+id/livingButtton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="So.." />
+
+    <Button
+        android:id="@+id/rectumButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="rectum fulla" />
+
+    <Button
+        android:id="@+id/heatButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="heat" />
+    <Button
+        android:id="@+id/closeButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Quit" />
+</LinearLayout>
